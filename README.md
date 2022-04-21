@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src=https://telegra.ph/file/4454113d99a68ab243ce9.jpg">
+  <img src="https://telegra.ph/file/4454113d99a68ab243ce9.jpg">
 </p>
 
 ## Found Me On Telegram [@AsenaXrobot](https://t.me/lvyuselp)
